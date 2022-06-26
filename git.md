@@ -1,5 +1,3 @@
-[toc]
-
 # Git安装配置
 
 # Git常用命令
@@ -11,3 +9,5 @@
 # Gitee
 
 # GitLab
+
+hello, world!
